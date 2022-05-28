@@ -95,7 +95,6 @@
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="0.0"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="414" id="EFG-vb-2Qj"/>
                                             <constraint firstAttribute="height" id="Z2e-sk-q0U"/>
                                         </constraints>
                                     </view>
@@ -184,6 +183,7 @@
                             <constraint firstItem="a3c-jU-liD" firstAttribute="width" secondItem="9HR-Oz-j8L" secondAttribute="width" id="Ccu-RP-BcX"/>
                             <constraint firstItem="Eeq-KY-cuT" firstAttribute="top" secondItem="dbn-Hg-dsM" secondAttribute="bottom" id="Jzx-XH-C80"/>
                             <constraint firstItem="Eeq-KY-cuT" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="KyL-2Z-kdU"/>
+                            <constraint firstItem="SSN-8Y-G2z" firstAttribute="width" secondItem="Ev5-AM-Kzz" secondAttribute="width" id="NIF-37-qXm"/>
                             <constraint firstItem="a3c-jU-liD" firstAttribute="leading" secondItem="9HR-Oz-j8L" secondAttribute="trailing" id="RS0-UR-Xrg"/>
                             <constraint firstItem="Ev5-AM-Kzz" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="Sv6-VZ-H6J"/>
                             <constraint firstItem="Ev5-AM-Kzz" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Y4B-Ms-p7K"/>
